@@ -1,0 +1,201 @@
+Question,Given Label,Predicted Label
+In what area of the world was the Six Day War fought ?,LOC:other,what
+How many wives did Brigham Young have ?,NUM:count,unknown
+Where can I find information on George Bush ?,LOC:other,unknown
+What field sport did dentist William Beers promote and write a standard book of rules for ?,ENTY:sport,what
+What species is a colt ?,ENTY:animal,what
+What is Jane Goodall known for ?,DESC:reason,what
+Who was Randy Steven Craft 's lawyer ?,HUM:ind,who
+What company tabulates the ballots in voting for the Academy Awards ?,HUM:gr,what
+Who earns their money the hard way ?,HUM:ind,who
+How can I get some free technical information on Electric Vehicle ?,DESC:manner,unknown
+What was Connecticut 's first constitution called ?,ENTY:cremat,what
+What 's the only work by Michelangelo that bears his signature ?,ENTY:cremat,what
+When did the Berlin Wall go up ?,NUM:date,unknown
+Where can I buy movies on videotape online ?,LOC:other,unknown
+What American poet wrote : `` Good fences make good neighbors '' ?,HUM:ind,what
+What Polynesian people inhabit New Zealand ?,HUM:gr,what
+"How much would it cost to purchase a 2-foot-square party tent , with sides , ?",NUM:money,unknown
+What film or films has Jude Law appeared in ?,ENTY:cremat,what
+"What is the meaning of W.B. Yeat 's poem , `` The Three Hermits ? ''",DESC:def,what
+What day of the week sees the most fatal car accidents ?,NUM:date,what
+How many Gutenberg Bibles are there ?,NUM:count,unknown
+What country has the best defensive position in the board game Diplomacy ?,LOC:country,what
+Who is the president of Stanford University ?,HUM:ind,who
+What organization was founded by the Rev. Jerry Falwell ?,HUM:gr,what
+What Russian seaport has a name meaning `` Lord of the East '' ?,LOC:city,what
+Name 11 famous martyrs .,HUM:ind,unknown
+How can I register my website in Yahoo for free ?,DESC:manner,unknown
+What is the mascot for Notre Dame University ?,ENTY:other,what
+What kind of education do I need to become a flight attendant ?,ENTY:other,what
+Who coined the term NN cyberspace `` in his novel NN Neuromancer '' ?,HUM:ind,who
+Who was the author of `` John Brown 's Body '' ?,HUM:ind,who
+What is the leading pecan and peanut growing state ?,LOC:state,what
+Who wrote The Night of the Iguana ?,HUM:ind,who
+What makes popcorn pop ?,DESC:reason,what
+Who is the founder of Scientology ?,HUM:ind,who
+What year did Germany sign its nonaggression pact with the Soviet Union ?,NUM:date,what
+What was the Bridge of San Luis Rey made of ?,ENTY:substance,what
+What are the distinct physical characterstics of the Arabian horse ?,DESC:desc,what
+Who is the voice of Miss Piggy ?,HUM:ind,who
+"Where is the actress , Marion Davies , buried ?",LOC:other,unknown
+"What lawyer won the largest divorce settlement , $85 million , in U.S. history for Sheika Dena Al-Farri ?",HUM:ind,unknown
+What actor 's autobiography is titled All My Yesterdays ?,HUM:ind,what
+Who banned Peter Rose from baseball for betting on games ?,HUM:ind,who
+What is the abbreviation of the company name ` General Motors ' ?,ABBR:abb,what
+Define the Pheonix Club ?,DESC:def,unknown
+What city has the world 's longest subway system ?,LOC:city,what
+What instrument is Ray Charles best known for playing ?,ENTY:instru,what
+What language is mostly spoken in Brazil ?,ENTY:lang,what
+When did CNN go on the air ?,NUM:date,when
+What girl 's name is `` Teddy '' an affectionate form of ?,HUM:ind,what
+What astronomical phenomenon takes place in Jan. 1999 ?,ENTY:event,what
+Where can I find a case on Individuals with Disabilities Education Act of 1991 ?,LOC:other,unknown
+What is the full name of the PLO ?,ABBR:exp,what
+How many double-word-score spaces are there on a Scrabble Crossword Game board ?,NUM:count,unknown
+What is the current ticket fare from from Cairo to Barbados ?,NUM:money,what
+What city was President William McKinley shot in ?,LOC:city,what
+What color bottles do good Rhine wines come in ?,ENTY:color,what
+When did Muhammad live ?,NUM:date,when
+What are the 7 articles of the constitution ?,ENTY:other,what
+What European city do Nicois live in ?,LOC:city,what
+Where on the Internet can I get information about the Fifth Amendment on the American Bill of Rights ?,LOC:other,unknown
+What is a fear of shadows ?,ENTY:dismed,what
+"Which is the largest clock , diameter wise , in Europe ?",ENTY:other,unknown
+How many dots make up the symbol for `` because '' ?,NUM:count,unknown
+What is the filmmakers collabrative ?,DESC:def,what
+Who starred in Singing in the Rain and The Singing Nun ?,HUM:ind,who
+What is a rhomboideus minor ?,DESC:def,what
+"Who graced the airwaves with such pearls as `` Do ya lo-o-ove me ? Get naked , baby ! '' ?",HUM:ind,who
+What is the longest English word ?,ENTY:word,what
+How many inches over six feet is the Venus de Milo ?,NUM:count,unknown
+Why are electric cars less efficient in the northeast than in California ?,DESC:reason,unknown
+Where can I find the best free evidence for debate about Russia ?,LOC:other,unknown
+How do I get another city 's newspaper ?,DESC:manner,unknown
+What is the longest-running television series ?,ENTY:cremat,what
+Where can I find a review of Nightmare on Elm Street in a film journal ?,LOC:other,unknown
+How many oceans are there and name them ?,NUM:count,unknown
+Who was Lauren Bacall 's first husband ?,HUM:ind,who
+What kind of animal is Babar ?,ENTY:animal,what
+Who was nicknamed The Little Corporal ?,HUM:ind,who
+What year did the United States pass the Copyright law ?,NUM:date,what
+Which two states enclose Chesapeake Bay ?,LOC:state,unknown
+What Soviet leader owned a Rolls-Royce ?,HUM:ind,what
+How many people died on D-Day ?,NUM:count,unknown
+What is Nebraska 's most valuable resource ?,ENTY:other,what
+How can I transport files from one computer to another ?,DESC:manner,unknown
+CNN is the abbreviation for what ?,ABBR:exp,what
+What 's the American dollar equivalent for 8 pounds in the U.K. ?,NUM:count,what
+What is the classic definition of tragic hero ?,DESC:def,what
+Who are the Challengers of the Unknown ?,HUM:gr,who
+What 's the common name for acetylsalicylic acid ?,ENTY:termeq,what
+What is the Kashmir issue ?,DESC:def,what
+Why do some clothing labels say `` Use a nonchlorine bleach '' ?,DESC:reason,unknown
+What relative of the racoon is sometimes known as the cat-bear ?,ENTY:animal,what
+What is the name of the tallest mountain in the world ?,LOC:mount,what
+What product did Robert Conrad dare people to knock off his shoulder ?,ENTY:product,what
+How far do you have to run if you hit a home run ?,NUM:dist,unknown
+What is the origin of the expression `` tout de suite '' ?,DESC:desc,what
+Who is the `` Queen Mother '' ?,HUM:desc,who
+Who killed Gandhi ?,HUM:ind,who
+What author did photographer Yousuf Karsh call `` the shiest man I ever met '' ?,HUM:ind,what
+What are the world 's four oceans ?,LOC:other,what
+Where can I find out the top 1 singles ?,LOC:other,unknown
+Which of the following was Rhodes Scholar ?,HUM:ind,unknown
+Where are the tropical rain forest distributions ?,LOC:other,unknown
+What do flatfish eat ?,ENTY:food,what
+How do you look up criminal records on the Internet ?,DESC:manner,unknown
+Where do hyenas live ?,LOC:other,unknown
+Where was Christopher Columbus born ?,LOC:other,unknown
+What is the origin of the word `` attic '' ?,DESC:desc,what
+What is the dialogue circle in cartoons called ?,ENTY:termeq,what
+When is Boxing Day ?,NUM:date,what
+What do players try to do when the music stops in a game of musical chairs ?,DESC:desc,what
+How do you make a paintball ?,DESC:manner,unknown
+What does NAFTA stand for ?,ABBR:exp,what
+What musical instrument did Prewitt play in James Jones 's From Here to Eternity ?,ENTY:instru,what
+Why do heavier objects travel downhill faster ?,DESC:reason,unknown
+What was her real name ?,HUM:ind,what
+How did shipyard inspector James J. Kilroy designate equipment as being satisfactory ?,DESC:manner,unknown
+What was the name of the `` Little Rascals '' dog ?,ENTY:animal,what
+How do you ask a total stranger out on a date ?,DESC:manner,unknown
+Which two products use a tiger as their symbol ?,ENTY:product,unknown
+"What children 's tale contains the line : `` Come , Cinderslut , and hold this skein of wool for me '' ?",ENTY:cremat,what
+Who is Barbara Jordan ?,HUM:desc,who
+What 's the nickname of oddsmaker Jimmy Snyder ?,HUM:ind,what
+In what Olympic Games did Nadia Comaneci become popular ?,ENTY:sport,unknown
+Name a golf course in Myrtle Beach .,ENTY:other,unknown
+What is the population of Ohio ?,NUM:other,what
+How many fingers are used to draw a bow ?,NUM:count,unknown
+How many years do fossils take to form ?,NUM:count,unknown
+How many years ago did the ship Titanic sink ?,NUM:count,unknown
+How can your school march in the Macy 's Thanksgiving Parade ?,DESC:manner,unknown
+What plant is rum made from ?,ENTY:plant,what
+Who is Desmond Tutu ?,HUM:desc,who
+How do I start a web based business ?,DESC:manner,unknown
+What is the origin of the name Katie ?,DESC:desc,what
+What are bear and bull markets ?,DESC:def,what
+Where can I find correct tabs for Third Eye Blind songs ?,LOC:other,unknown
+"What does the word camaro mean , from the GM car the Camaro ?",DESC:def,what
+What kind of wine is Spumante ?,ENTY:food,what
+Who sings the themes for `` Dawson 's Creek '' and `` Felicity '' ?,HUM:ind,who
+How many Jews were executed in concentration camps during WWII ?,NUM:count,unknown
+What barroom judge called himself The Law West of the Pecos ?,HUM:ind,what
+What U.S. state records the least rainfall ?,LOC:state,what
+Where did Sarge Steel get his metal hand ?,LOC:other,unknown
+What animal has the biggest eyes ?,ENTY:animal,what
+Why do horseshoes bring luck ?,DESC:reason,unknown
+Which country is Australia 's largest export market ?,LOC:country,unknown
+What other name were the `` Little Rascals '' known as ?,ENTY:termeq,what
+What company is being bought by Yahoo and how much is the deal worth ?,HUM:gr,what
+What does the Statue of Liberty wear on her feet ?,ENTY:other,what
+What are the powers and weaknesses of Green Lantern 's ring ?,DESC:desc,what
+How can I find out what year a Beanie Baby was introduced ?,DESC:manner,unknown
+What mountains lie between the Arkansas and Missouri rivers ?,LOC:mount,what
+What rum is so `` mixable '' it is a one-brand bar ?,ENTY:food,what
+What country 's capital is Tirana ?,LOC:country,what
+How do you say 2 in Latin ?,ENTY:termeq,unknown
+What year did Jack Nicklaus join the Professional Golfers Association tour ?,NUM:date,what
+"What U.S. Congressman said : `` Keep the faith , baby '' .",HUM:ind,what
+What sign is The Water Carrier the zodiacal symbol for ?,ENTY:symbol,what
+What U.S. state is Fort Knox in ?,LOC:state,what
+What soft drink would provide me with the biggest intake of caffeine ?,ENTY:food,what
+What was the number of people that Randy Steven Craft was convicted of killing ?,NUM:other,what
+Who does the advertizing for Frito-Lay ?,HUM:ind,who
+What was the occupation of Mandy Rice-Davies ?,HUM:title,what
+What was the education system in the 1960 's ?,ENTY:other,what
+What 's approaching when a cyclist shouts : `` Oil '' ?,ENTY:other,what
+What caused Harry Houdini 's death ?,DESC:reason,what
+What 's the Olympic motto ?,DESC:desc,what
+Who portrayed portly criminologist Carl Hyatt on Checkmate ?,HUM:ind,what
+Why do n't you guys have some sort of contest where you ask a question and whoever finds the answers wins a prize ?,DESC:reason,unknown
+"Who came up with the name , El Nino ?",HUM:ind,who
+What was the name of the sitcom that Alyssa Milano starred in with Tony Danza ?,ENTY:cremat,what
+What makes hamburgers taste like steakburgers ?,DESC:reason,what
+What 's the most powerful card in Euchre ?,ENTY:other,what
+Who is Terrence Malick ?,HUM:desc,who
+In what religion was Isis the nature goddess ?,ENTY:religion,what
+What is the lowest level of the American judiciary ?,ENTY:other,what
+What was the name of the cook on Rawhide ?,HUM:ind,what
+What 's an auberge in France ?,DESC:def,what
+What is the nature of learning ?,DESC:def,what
+What 1966 boob tube bomb took astronauts back to prehistoric times ?,ENTY:cremat,what
+What is the highest mountain in the world ?,LOC:mount,what
+"What President lived at 219 North Delaware Street , Independence , Missouri ?",HUM:ind,what
+What is the origin of the name ` Scarlett ' ?,DESC:desc,what
+What kind of file has the extension .dbf ?,ENTY:other,what
+What is a virtual IP address ?,DESC:def,what
+How many boys play the game in Winslow Homer 's 1872 painting Snap the Whip ?,NUM:count,unknown
+What party was Winston Churchill a member of ?,HUM:gr,what
+What does the six-footed Musca domestica become when it enters a house ?,ENTY:other,what
+Who created private detective Philip Marlowe ?,HUM:ind,who
+What are the four elements ?,ENTY:substance,what
+Who is the fastest swimmer in the world ?,HUM:ind,who
+How many students attend the University of Massachusetts ?,NUM:count,unknown
+Where are the 49 steps ?,LOC:other,unknown
+What does the Georgetown `` Hoya '' mean ?,DESC:def,what
+How is a hydrogen bomb different from a nuclear bomb ?,DESC:manner,unknown
+What President-to-be was the first member of Congress to enlist following the attack on Pearl Harbor ?,HUM:ind,what
+What is California 's capital ?,LOC:city,what
+How was the element calcium named ?,DESC:manner,unknown
+What is a green bog ?,DESC:def,what
