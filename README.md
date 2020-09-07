@@ -15,12 +15,21 @@ Instructions to run the model:
 4. some sample input test cases and their corresponding outputs:
 
 Enter the question: how is the weather?
+
 ['unknown']
+
 Enter the question: what is today's date?
+
 ['what']
+
 Enter the question: is it raining?
+
 ['affirmation']
+
 Enter the question: what time does the train leave?
+
 ['when']
+
 Enter the question: who is the inventor of cricket?
+
 ['who']
